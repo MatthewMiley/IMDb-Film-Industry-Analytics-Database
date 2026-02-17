@@ -1,7 +1,7 @@
 Create a .md file under your GitHub project repository describing your project scope (tentative), users, and data sources
 
 Given task: Develop a database of IMDb films covering movies and their cast, crew, ratings, revenue, and awards. 
-In this project there must be many-to-many relationship modeling, Career trajectory analysis using window functions, and performance indexing.
+In this project, there must be many-to-many relationship modeling, Career trajectory analysis using window functions, and performance indexing.
 
 Project Scope:
 
@@ -17,11 +17,17 @@ Project Scope:
 
     The Data Plan:
         I have two kaggle datasets, but the "IMDb extensive dataset" one has over 82000 movies which means it'll likely be the data source I will draw heavily from.
+        The extensive dataset has two tables linked by the imdb_title_id value one which has data on the ratings and one which details the movies.
 
+    Difficulties:
+        The database I'm using is very large and will require filtering out data, which I'm not sure how to do yet.
+        I also need to decide a database application, I'm guessing Ill use somthing like datagrip, but am unsure as of now and need to ask what a database         application is.
+        
 
 
 Users:
 Film analysts
+Film Producers
 
 
 
