@@ -1,0 +1,798 @@
+director_id,director_name
+1,Charles L. Gaskill
+2,Sidney Olcott
+3,André Calmettes
+4,James Keane
+5,D.W. Griffith
+6,Paul Wegener
+7,Stellan Rye
+8,George Loane Tucker
+9,Reginald Barker
+10,James Kirkwood
+11,Sidney Drew
+12,J. Farrell MacDonald
+13,Lois Weber
+14,Edward S. Curtis
+15,Louis J. Gasnier
+16,Donald MacKenzie
+17,Oscar Apfel
+18,Cecil B. DeMille
+19,Edwin S. Porter
+20,Mack Sennett
+21,Charles Bennett
+22,Maurice Tourneur
+23,W.W. Young
+24,Thomas H. Ince
+25,Frank Powell
+26,Christy Cabanne
+27,Edgar Lewis
+28,Raoul Walsh
+29,George Melford
+30,Stuart Paton
+31,Chester M. Franklin
+32,Sidney Franklin
+33,Chester Withey
+34,Allan Dwan
+35,Charles Swickard
+36,William S. Hart
+37,John Emerson
+38,Lloyd Ingraham
+39,Paul Powell
+40,Arthur Berthelet
+41,J. Searle Dawley
+42,Phillips Smalley
+43,Ruth Ann Baldwin
+44,John Ford
+45,J. Gordon Edwards
+46,Joseph Levering
+47,Marshall Neilan
+48,George Irving
+49,William Desmond Taylor
+50,Ida May Park
+51,Joseph Maxwell
+52,F. Richard Jones
+53,James Young
+54,Walter Edwards
+55,Albert Parker
+56,Charles Chaplin
+57,Alan Crosland
+58,Richard Oswald
+59,Irvin Willat
+60,Erich von Stroheim
+61,Jerome Storm
+62,Robert Z. Leonard
+63,James Cruze
+64,Joseph De Grasse
+65,Raymond Longford
+66,Victor Fleming
+67,Tod Browning
+68,John S. Robertson
+69,Lawrence C. Windom
+70,King Vidor
+71,Clarence Brown
+72,Leon D'Usseau
+73,John Francis Dillon
+74,Lambert Hillyer
+75,Robert F. Hill
+76,Scott Sidney
+77,Max Linder
+78,George D. Baker
+79,Ray C. Smallwood
+80,Maurice Campbell
+81,Robert G. Vignola
+82,Roscoe 'Fatty' Arbuckle
+83,Alfred E. Green
+84,Jack Pickford
+85,Frances Marion
+86,Albert Austin
+87,Victor Heerman
+88,Theodore Reed
+89,Fred C. Newmeyer
+90,Fred Niblo
+91,George Terwilliger
+92,Sam Taylor
+93,Edward D. Venturini
+94,Burton L. King
+95,Rupert Julian
+96,Frank Lloyd
+97,Tom Forman
+98,Lynn Reynolds
+99,Robert Thornby
+100,Harry B. Parkinson
+101,Harry Houdini
+102,John G. Blystone
+103,Buster Keaton
+104,Ernst Lubitsch
+105,Abel Gance
+106,Rex Ingram
+107,Rupert Hughes
+108,Henry King
+109,Edward F. Cline
+110,Henry Otto
+111,Mary Pickford
+112,William A. Seiter
+113,Victor Sjöström
+114,E. Mason Hopper
+115,Paul Bern
+116,Frank Borzage
+117,Graham Cutts
+118,Oscar Micheaux
+119,Alan Hale
+120,Noel M. Smith
+121,Joseph Henabery
+122,Donald Crisp
+123,Monta Bell
+124,William Beaudine
+125,David Butler
+126,Roland West
+127,Clarence G. Badger
+128,Wesley Ruggles
+129,Alfred Hitchcock
+130,Walter Lang
+131,Dorothy Davenport
+132,Edmund Goulding
+133,Leander De Cordova
+134,G.B. Samuelson
+135,King Baggot
+136,George B. Seitz
+137,George Chesebro
+138,Bruce Mitchell
+139,George W. Hill
+140,Herbert Brenon
+141,Charles Reisner
+142,William A. Wellman
+143,Jack Conway
+144,Paul Sloane
+145,Howard Hawks
+146,Lewis Seiler
+147,Harry Edwards
+148,A. Edward Sutherland
+149,Frank Tuttle
+150,Dallas M. Fitzgerald
+151,Herbert Wilcox
+152,Millard Webb
+153,Malcolm St. Clair
+154,Gregory La Cava
+155,George Fitzmaurice
+156,Tom McNamara
+157,Frank Capra
+158,Mauritz Stiller
+159,Frank Urson
+160,Paul Leni
+161,James W. Horne
+162,Sam Wood
+163,Roy Del Ruth
+164,Clyde Bruckman
+165,Dorothy Arzner
+166,Maurice Elvey
+167,Ted Wilde
+168,Harold Lloyd
+169,Benjamin Christensen
+170,William Nigh
+171,Alfred Santell
+172,Anthony Asquith
+173,A.V. Bramble
+174,Edward Sedgwick
+175,John M. Stahl
+176,F.W. Murnau
+177,J.P. McGowan
+178,Harry Langdon
+179,Hobart Henley
+180,Lewis Milestone
+181,Harry A. Pollard
+182,Josef von Sternberg
+183,Arthur Rosson
+184,Harry d'Abbadie d'Arrast
+185,W.S. Van Dyke
+186,Merian C. Cooper
+187,Lothar Mendes
+188,Bryan Foy
+189,Pál Fejös
+190,Ewald André Dupont
+191,Harry Beaumont
+192,Lucien Hubbard
+193,Lloyd Bacon
+194,Roy William Neill
+195,Robert J. Flaherty
+196,Rouben Mamoulian
+197,Irving Cummings
+198,Mervyn LeRoy
+199,Robert Florey
+200,Joseph Santley
+201,John Cromwell
+202,Edwin Carewe
+203,Castleton Knight
+204,Edgar Selwyn
+205,William J. Cowen
+206,William Wyler
+207,Paul L. Stein
+208,Howard Higgin
+209,William C. de Mille
+210,Arthur Robison
+211,Jacques Feyder
+212,Jean de Limur
+213,Lionel Barrymore
+214,Erle C. Kenton
+215,Rowland V. Lee
+216,Michael Curtiz
+217,Darryl F. Zanuck
+218,Franz Osten
+219,Victor Schertzinger
+220,Luther Reed
+221,Arch Heath
+222,John G. Adolfi
+223,H.P. Carver
+224,Alexander Korda
+225,Bayard Veiller
+226,William K. Howard
+227,Thornton Freeland
+228,Ward Wing
+229,Louis R. Loeffler
+230,David Burton
+231,Nick Grinde
+232,Charles Brabin
+233,Al Christie
+234,Melville W. Brown
+235,Archie Mayo
+236,André Charlot
+237,Jack Hulbert
+238,Phil Rosen
+239,Leslie Pearce
+240,Lloyd Corrigan
+241,Laurence Schwab
+242,George Archainbaud
+243,Ray Enright
+244,Benjamin Stoloff
+245,Howard Hughes
+246,Tay Garnett
+247,Edward H. Griffith
+248,Roy Pomeroy
+249,James Whale
+250,John Murray Anderson
+251,Walter Lantz
+252,Leo McCarey
+253,Otto Brower
+254,Edwin H. Knopf
+255,Lowell Sherman
+256,George Abbott
+257,Scott Pembroke
+258,Robert Milton
+259,Victor Halperin
+260,Edward Sloman
+261,Hal Roach
+262,George Cukor
+263,Cyril Gardner
+264,Louis Wolheim
+265,Ludwig Berger
+266,Marion Gering
+267,Bud Pollard
+268,Howard Estabrook
+269,Hamilton MacFadden
+270,Berthold Viertel
+271,Anatole Litvak
+272,Karl Freund
+273,Stuart Walker
+274,B. Reeves Eason
+275,Richard Boleslawski
+276,William Dieterle
+277,William C. McGann
+278,Russell Mack
+279,Richard Wallace
+280,Edward Goodman
+281,Norman Z. McLeod
+282,Frank R. Strayer
+283,Albert S. Rogell
+284,Leontine Sagan
+285,Carl Froelich
+286,Victor Trivas
+287,George Shdanoff
+288,Tom Buckingham
+289,James Parrott
+290,Alan James
+291,J. Walter Ruben
+292,Rowland Brown
+293,D. Ross Lederman
+294,Leslie S. Hiscott
+295,Zion Myers
+296,Jules White
+297,Norman Taurog
+298,Jack Raymond
+299,Edward Buzzell
+300,Varick Frissell
+301,Harry Joe Brown
+302,Tenny Wright
+303,William Cameron Menzies
+304,Marcel Varnel
+305,H. Bruce Humberstone
+306,Dudley Murphy
+307,Fred Allen
+308,Mack V. Wright
+309,Hugh Harman
+310,Armand Schaefer
+311,Richard Thorpe
+312,Stephen Roberts
+313,Samuel Bischoff
+314,Ford Beebe
+315,Edward L. Cahn
+316,James Flood
+317,Elliott Nugent
+318,Charles Vidor
+319,Howard Bretherton
+320,William Keighley
+321,Ralph Ince
+322,William Boyd
+323,Spencer Gordon Bennet
+324,Irving Pichel
+325,Ernest B. Schoedsack
+326,Ralph Murphy
+327,Emory Johnson
+328,Walter Forde
+329,Harry L. Fraser
+330,Richard Rosson
+331,Alexander Hall
+332,Phil Whitman
+333,Hampton Del Ruth
+334,Albert de Courville
+335,Albert Ray
+336,Mark Sandrich
+337,Albert Herman
+338,Sidney Lanfield
+339,Willard Mack
+340,Charles E. Roberts
+341,Edwin L. Marin
+342,Felix E. Feist
+343,Charley Rogers
+344,Georg Wilhelm Pabst
+345,Murray Roth
+346,Karl Hartl
+347,Victor Saville
+348,Max Marcin
+349,Bernard Vorhaus
+350,T. Hayes Hunter
+351,Arthur Hopkins
+352,Charles Chauvel
+353,Harry O. Hoyt
+354,Albert H. Kelley
+355,Henry Hathaway
+356,Robert N. Bradbury
+357,Arnold Fanck
+358,Kurt Neumann
+359,George Amy
+360,Busby Berkeley
+361,Phil Goldstone
+362,Melville Shyer
+363,Colbert Clark
+364,Sergei M. Eisenstein
+365,Francis Martin
+366,George Somnes
+367,Reinhold Schünzel
+368,George Marshall
+369,Philip Moeller
+370,George Nichols Jr.
+371,Gus Meins
+372,Harry Lachman
+373,George Stevens
+374,Edgar G. Ulmer
+375,Mitchell Leisen
+376,Erik Charell
+377,Paul Czinner
+378,Eugene Forde
+379,George Hadden
+380,Ben Hecht
+381,Charles MacArthur
+382,David Howard
+383,Reginald Denham
+384,Harry Garson
+385,Wanda Tuchock
+386,Michael Powell
+387,Worthington Miner
+388,Alfred L. Werker
+389,Joseph Kane
+390,Willy Pogany
+391,Leonard Fields
+392,Harlan Thompson
+393,Eugene Frenke
+394,James P. Hogan
+395,William Clemens
+396,Edward Ludwig
+397,Dwain Esper
+398,Chester Erskine
+399,Joe May
+400,Edwin J. Burke
+401,Ray Taylor
+402,Walter Summers
+403,Harold Young
+404,Milton Rosmer
+405,Cedric Gibbons
+406,James C. McKay
+407,Charles Barton
+408,Luis Trenker
+409,Marc Allégret
+410,Frank McDonald
+411,Austin Melford
+412,Louis King
+413,James Tinling
+414,Monty Banks
+415,Harry Revier
+416,Lewis D. Collins
+417,Charles Lamont
+418,George Pearson
+419,George White
+420,René Clair
+421,Basil Dean
+422,W.C. Fields
+423,Bernard B. Ray
+424,Max Reinhardt
+425,Tim Whelan
+426,Clifford Sanforth
+427,Ray McCarey
+428,Denison Clift
+429,Edward A. Kull
+430,Wilbur McGaugh
+431,Carl Pierson
+432,Anthony Kimmins
+433,Arthur Greville Collins
+434,Wallace Fox
+435,Fred Guiol
+436,Lew Landers
+437,Zoltan Korda
+438,Henry Edwards
+439,William Hamilton
+440,Edward Killy
+441,Lansing C. Holden
+442,Thomas Atkins
+443,Raymond K. Johnson
+444,Clifford Smith
+445,Sam Newfield
+446,Alfred Zeisler
+447,H.C. Potter
+448,Wells Root
+449,Leigh Jason
+450,John Reinhardt
+451,Gordon Wiles
+452,Ralph Staub
+453,John H. Auer
+454,George King
+455,Elmer Clifton
+456,Frederick Stephani
+457,Fritz Lang
+458,Gordon Douglas
+459,Marc Connelly
+460,Lew Ayres
+461,Nate Watt
+462,Wilhelm Thiele
+463,Robert Stevenson
+464,Leslie Goodwins
+465,Herbert J. Biberman
+466,Walter Reisch
+467,William A. O'Connor
+468,Ben Holmes
+469,Geoffrey Barkas
+470,George A. Cooper
+471,J. Elder Wills
+472,John P. McCarthy
+473,John Farrow
+474,Henry Koster
+475,Del Lord
+476,Pierre Chenal
+477,John English
+478,Gustav Machatý
+479,Edmond T. Gréville
+480,Norman Lee
+481,Arthur Lubin
+482,Otto Preminger
+483,Harold D. Schuster
+484,Stanley Logan
+485,Jean Renoir
+486,Ewing Scott
+487,George Sherman
+488,Lesley Selander
+489,Roland D. Reed
+490,Gregory Ratoff
+491,Garson Kanin
+492,David MacDonald
+493,Sacha Guitry
+494,William Witney
+495,Lynn Shores
+496,Thomas Bentley
+497,Errol Taggart
+498,William Cottrell
+499,David Hand
+500,Ian Dalrymple
+501,David Selman
+502,Norman Foster
+503,Wyndham Gittens
+504,Robert Riskin
+505,Robert Clampett
+506,Glenn Tryon
+507,Carol Reed
+508,Otis Garrett
+509,John T. Coyle
+510,Vincent Korda
+511,Stuart Heisler
+512,Christian-Jaque
+513,Gustaf Molander
+514,Robert B. Sinclair
+515,William L. Nolte
+516,Ralph Cooper
+517,Herbert I. Leeds
+518,John Brahm
+519,Julien Duvivier
+520,Clarence Bricker
+521,Joshua Logan
+522,Arthur Ripley
+523,Bobby Connolly
+524,Crane Wilbur
+525,Leslie Howard
+526,Hanns Schwarz
+527,Sonnie Hale
+528,S. Sylvan Simon
+529,Richard Bird
+530,Arthur B. Woods
+531,Orson Welles
+532,Erich Pommer
+533,Harold S. Bucquet
+534,Terry O. Morse
+535,Thorold Dickinson
+536,P.J. Wolfson
+537,Richard C. Kahn
+538,John Baxter
+539,Arthur H. Leonard
+540,Dave Fleischer
+541,Willard Bowsky
+542,Ricardo Cortez
+543,Charles C. Coleman
+544,Herbert Mason
+545,Leslie Fenton
+546,Adrian Brunel
+547,Brian Desmond Hurst
+548,Peter Godfrey
+549,Norman Deming
+550,Sam Nelson
+551,Robert R. Snody
+552,George Randol
+553,Jacques Tourneur
+554,Jack Hively
+555,Saul A. Goodkind
+556,Pen Tennyson
+557,Vincent Sherman
+558,John Paddy Carstairs
+559,Lee Garmes
+560,Joseph H. Lewis
+561,Preston Sturges
+562,Alfred J. Goulding
+563,Jean Negulesco
+564,Alexander Esway
+565,Frank Woodruff
+566,Jean Yarbrough
+567,James Algar
+568,Samuel Armstrong
+569,John Rawlins
+570,Curtis Bernhardt
+571,William West
+572,Sidney Salkow
+573,Irving Reis
+574,Hal Roach Jr.
+575,Norman Ferguson
+576,T. Hee
+577,Yrjö Norta
+578,John Harlow
+579,Boris Ingster
+580,LeRoy Prinz
+581,David Miller
+582,Basil Dearden
+583,Will Hay
+584,Robert Sparks
+585,Spencer Williams
+586,Derwin Abrahams
+587,Edward Dmytryk
+588,Lance Comfort
+589,Charles Frend
+590,George Sidney
+591,Hugh Bennett
+592,George Waggner
+593,Ralph Ceder
+594,Gabriel Pascal
+595,Harold French
+596,John Huston
+597,William Morgan
+598,Irving Rapper
+599,David Bradley
+600,Hamilton Luske
+601,Jules Dassin
+602,Jo Graham
+603,S. Roy Luby
+604,Arthur Dreifuss
+605,Michael Gordon
+606,Willis Goldbeck
+607,Fred Zinnemann
+608,Charles Lederer
+609,Robert Siodmak
+610,Robert Allen
+611,Noël Coward
+612,David Lean
+613,Herbert Kline
+614,Fred Fleck
+615,Billy Wilder
+616,Albert Lewin
+617,Leslie Arliss
+618,Joseph M. Newman
+619,Emeric Pressburger
+620,Roberto Rossellini
+621,John Francis Larkin
+622,Sergei Nolbandov
+623,Budd Boetticher
+624,James Mangold
+625,Alberto Cavalcanti
+626,Roy Boulting
+627,Lawrence Huntington
+628,Philip Brandon
+629,Byron Haskin
+630,William H. Pine
+631,Bruce Manning
+632,Vincente Minnelli
+633,Reginald Le Borg
+634,William Castle
+635,Robert Emmett Tansey
+636,Delmer Daves
+637,Humphrey Jennings
+638,Cedric Hardwicke
+639,Mark Robson
+640,Val Guest
+641,Dudley Nichols
+642,Frank Ryan
+643,Andrew L. Stone
+644,Friz Freleng
+645,Douglas Sirk
+646,Fred M. Wilcox
+647,Roy Rowland
+648,Sidney Gilliat
+649,Frank Launder
+650,William Berke
+651,Harry Watt
+652,André De Toth
+653,Norman Krasna
+654,Steve Sekely
+655,Vernon Sewell
+656,Gordon Wellesley
+657,Laslo Benedek
+658,Jeffrey Dell
+659,Karel Lamac
+660,Herman Shumlin
+661,Hal Mohr
+662,Léonide Moguy
+663,Michael Radford
+664,Edward A. Blatt
+665,Richard Whorf
+666,Henry Levin
+667,Gunther von Fritsch
+668,Robert Wise
+669,James V. Kern
+670,Charles Crichton
+671,Andrew Marton
+672,Laurence Olivier
+673,Mutz Greenbaum
+674,Arthur Crabtree
+675,Clifford Odets
+676,Clive Brook
+677,Lewis Allen
+678,Bernard Knowles
+679,Will Jason
+680,Anthony Mann
+681,Bernard Miles
+682,Charles Saunders
+683,Wallace Grissell
+684,Paul Burnford
+685,Joseph Barbera
+686,Arch Oboler
+687,Max Nosseck
+688,Stan Laurel
+689,Alejandro Galindo
+690,George Seaton
+691,Hal Walker
+692,Alexis Thurn-Taxis
+693,Walter Colmes
+694,Charles David
+695,Abby Berlin
+696,Leopold Lindtberg
+697,Yakima Canutt
+698,John Berry
+699,William C. Thomas
+700,Emilio Fernández
+701,Robert Hamer
+702,Fred C. Brannon
+703,Vernon Keays
+704,Phil Karlson
+705,Robert D. Webb
+706,John Hoffman
+707,Frank Wisbar
+708,Clyde Geronimi
+709,Elia Kazan
+710,Antonio Román
+711,Alberto Lattuada
+712,Richard Fleischer
+713,Harold Clurman
+714,Jack Bernhard
+715,Joseph L. Mankiewicz
+716,Alfred Travers
+717,William Rowland
+718,Nat Perrin
+719,Philip Ford
+720,John Boulting
+721,Robert Cormack
+722,Georges Lacombe
+723,John Waters
+724,Charles Martin
+725,Sam White
+726,Teuvo Tulio
+727,Marcello Pagliero
+728,Peter Ustinov
+729,Vittorio De Sica
+730,Compton Bennett
+731,John Sturges
+732,Harve Foster
+733,Wilfred Jackson
+734,Renato Castellani
+735,R.G. Springsteen
+736,Don Siegel
+737,Stuart Gilmore
+738,Lemuel Ayers
+739,James Edward Grant
+740,Dean Riesner
+741,Robert Gordon
+742,Robert Rossen
+743,Ralph Smart
+744,William D. Russell
+745,Hans Richter
+746,Yves Allégret
+747,Max Ophüls
+748,George Blair
+749,Maxwell Shane
+750,Jack Kinney
+751,Charles Walters
+752,Josh Binney
+753,Charles Frank
+754,Don Hartman
+755,Rudolph Maté
+756,Thomas Carr
+757,Robert Montgomery
+758,Martin Gabel
+759,René Clément
+760,Robert Alton
+761,Roy Ward Baker
+762,Basil Wrangell
+763,W. Lee Wilder
+764,Edward Finney
+765,Ted Tetzlaff
+766,Brock Williams
+767,George S. Kaufman
+768,Jean-Pierre Melville
+769,Ronald Neame
+770,Frederick De Cordova
+771,Francis Searle
+772,Luigi Zampa
+773,Fyodor Otsep
+774,Jack Lee
+775,Cy Endfield
+776,Robert A. Stemmle
+777,Edward Bernds
+778,Joseph Losey
+779,Ken Annakin
+780,Michael C. Chorlton
+781,Jack Donohue
+782,Terence Young
+783,Arthur Pierson
+784,John F. Link Sr.
+785,Felix Jacoves
+786,Peter Proud
+787,Claude Binyon
+788,Abraham Polonsky
+789,Oswald Mitchell
+790,Ingmar Bergman
+791,Paul Henreid
+792,Roy Rich
+793,Alfred Roome
+794,Bretaigne Windust
+795,Jean Dréville
+796,Titus Vibe-Müller
+797,Robert L. Lippert
