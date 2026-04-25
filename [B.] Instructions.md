@@ -10,4 +10,4 @@ DB_USER = "MILEYFAMM_SCHEMA_D0P3M"
 DB_PASS = "OU34VyCQKY11025#I9AFF7X22VI0R4" 
 DB_DSN  = "db.freesql.com" + ":" + "1521" + "/" + "23ai_34ui2" 
 5. then put 'python [D.]dataload.py' in the terminal and enter
-6. Once dataload is done you can run 'python [E.]app.py'
+6. Once dataload is done you can run 'streamlit run [E.]app.py'
