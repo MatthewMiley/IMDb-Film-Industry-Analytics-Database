@@ -11,3 +11,6 @@ DB_PASS = "OU34VyCQKY11025#I9AFF7X22VI0R4"
 DB_DSN  = "db.freesql.com" + ":" + "1521" + "/" + "23ai_34ui2" 
 5. then put 'python [D.]dataload.py' in the terminal and enter
 6. Once dataload is done you can run 'streamlit run [E.]app.py'
+
+Should see:
+<img width="3811" height="1737" alt="image" src="https://github.com/user-attachments/assets/449dfa61-42fa-4c86-b408-2c7fc64b6380" />
