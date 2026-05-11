@@ -1,6 +1,6 @@
-Florida Polytechnic Database 1 project, by Matthew Miley. Designed to go through and filter a database from IMDb and then use it in a app.
+Florida Polytechnic Database 1 project, by Matthew Miley. Designed to go through and filter a database from IMDb and then use it in an app. (Using Oracle SQL and Python)
 
-Given task: Develop a database of IMDb films covering movies and their cast, crew, ratings, revenue, and awards. 
+Task: Develop a database of IMDb films covering movies and their cast, crew, ratings, and revenue. 
 
 Project Scope:
 
